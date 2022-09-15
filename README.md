@@ -1,4 +1,4 @@
-# qr_generator_app
+# QR_generator_app
 
 A new Flutter project.
 
